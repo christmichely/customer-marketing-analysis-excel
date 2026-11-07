@@ -34,7 +34,7 @@ One important lesson was recognizing how filters can affect analysis results and
 
 ## Project Files
 
-- **DoorDash_Case_Study.xlsx:** Excel workbook with customer data, analysis, dashboard, and lookup tool.
-- **dashboard.png:** Screenshot of the Excel dashboard.
+- **[Download Excel Workbook](DoorDash_Case_Study.xlsx)** — Customer data, analysis, dashboard, and lookup tool.
+- **[View Dashboard](dashboard.png)** — Screenshot of the Excel dashboard.
 
 *Dataset: Public customer marketing data. DoorDash was used as a business scenario; this project is not affiliated with DoorDash.*
